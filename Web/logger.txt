@@ -1,0 +1,32 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asus\Desktop\AuthNetCoreAndAngular\Web
+Browserslist: caniuse-lite is outdated. Please run the following command: `npm update`
+
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asus\Desktop\AuthNetCoreAndAngular\Web
+Browserslist: caniuse-lite is outdated. Please run the following command: `npm update`
+
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asus\Desktop\AuthNetCoreAndAngular\Web
+Browserslist: caniuse-lite is outdated. Please run the following command: `npm update`
+
+[19.09.2020 23:41:28]:[account/login]:[info:login]:[user:admin@gmail.com]
+[19.09.2020 23:41:46]:[account/profile]:[info:get profile]:[user:f5141040-0317-4d0e-9261-f09f4aa9964f]
+[19.09.2020 23:42:03]:[account/editprofile]:[info:edit profile]:[user:f5141040-0317-4d0e-9261-f09f4aa9964f]
+[19.09.2020 23:42:15]:[account/editprofile]:[info:edit profile]:[user:f5141040-0317-4d0e-9261-f09f4aa9964f]
+[19.09.2020 23:42:31]:[account/changepassword]:[info:change password]:[user:f5141040-0317-4d0e-9261-f09f4aa9964f]
+Invalid password for user f5141040-0317-4d0e-9261-f09f4aa9964f.
+User f5141040-0317-4d0e-9261-f09f4aa9964f failed to provide the correct password.
+[19.09.2020 23:42:36]:[account/login]:[error:unauthorized]:[user:admin@gmail.com]
+[19.09.2020 23:42:39]:[account/login]:[info:login]:[user:admin@gmail.com]
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asus\Desktop\AuthNetCoreAndAngular\Web
+Browserslist: caniuse-lite is outdated. Please run the following command: `npm update`
+
+[19.09.2020 23:44:48]:[account/login]:[info:login]:[user:admin@gmail.com]
+[19.09.2020 23:44:49]:[account/profile]:[info:get profile]:[user:f5141040-0317-4d0e-9261-f09f4aa9964f]
+[19.09.2020 23:45:10]:[account/login]:[info:login]:[user:admin@gmail.com]
